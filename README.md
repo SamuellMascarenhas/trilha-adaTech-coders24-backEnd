@@ -1,4 +1,4 @@
-# Trilha Back End - Santander Coders
+# Trilha Back End - Santander Coders!
 
 Bem-vindo ao meu repositório da trilha de cursos digitais de **Back End** preparada pela **Ada** para o **Santander Coders**. Este repositório contém todos os meus projetos, exercícios e anotações ao longo do curso.
 
